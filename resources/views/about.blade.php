@@ -216,7 +216,7 @@
                                     <i class="fas fa-shipping-fast"></i>
                                 </div>
                                 <div class="content">
-                                    <h3>Pengiriman Rumah</h3>
+                                    <h3>Pengiriman Rumah Cefat</h3>
                                     <p>sit voluptatem accusantium dolore mque laudantium, totam rem aperiam, eaque ipsa quae ab illo.</p>
                                 </div>
                             </div>
